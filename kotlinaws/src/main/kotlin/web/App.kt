@@ -40,7 +40,7 @@ fun Application.mainModule() {
 
 fun setup() : String {
     orderSetup()
-    return "Output can be viewed on console application"
+    return "Output can be viewed on console application!"
 }
 
 fun orderSetup() {
